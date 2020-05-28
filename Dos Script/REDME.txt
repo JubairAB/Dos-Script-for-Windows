@@ -1,0 +1,35 @@
+As-salamu alaykum Everyone 
+
+
+
+*How to use :
+
+#First Download the File and Extract .
+#Second Collect target Website IP address ( you guys can use this sites 
+  https://www.site24x7.com/
+  https://www.ipvoid.com/find-website-ip/
+  https://ipinfo.info/html/ip_checker.php
+  https://get-site-ip.com/
+  )
+#Third Now Start the Script and press "y" to continue 
+
+
+
+% IP = Internet Protocol address
+% Threads = Packet size that attacker wants to send . The max size You can use is 65530 byte. But it is not always useful to use the maximum size . Because it depends on net speed , computing speed and many other factors .
+
+            Normally you can use the default size 10000 or max 40000 , because it always replys to the connection.
+% use this script minimum 5 - 10 times at once .
+
+
+And a very important note the to get an effective result use this script in group of computer at the same time .
+
+
+
+
+
+                           If you guys have any quarry please let me know 
+                            https://facebook.com/JubairAB.000
+                            
+
+Thank you .
